@@ -1,6 +1,6 @@
 # Buzz 
 
-## Buzz is designed to bring people together in a big way. Buzz allows users to connec and interact with users in the same location as them.
+## Buzz lets users to connect and interact with users in the same location as them.
 
 ### Buzz is a fully responsive app built with:
 
