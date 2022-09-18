@@ -1,6 +1,6 @@
 # Buzz 
 
-## Buzz lets users to connect and interact with users in the same location as them.
+## Buzz helps people connect and interact with other in the same business or location as them.
 
 ### Buzz is a fully responsive app built with:
 
