@@ -1,6 +1,6 @@
 # Buzz 
 
-## Buzz is designed to bring people together in a big way. Buzz incorporates geolocation technology to allow users in a specific region to connect to and interact with users in the same location.
+## Buzz is designed to bring people together in a big way. Buzz allows users to connec and interact with users in the same location as them.
 
 ### Buzz is a fully responsive app built with:
 
