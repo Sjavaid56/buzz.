@@ -12,7 +12,7 @@
     "express-session": "^1.15.6",
     "google-maps-react": "^2.0.2",
     "http": "0.0.0",
-    "http-proxy-middleware": "^0.19.1",
+    "http-proxy-middleware": "^2.0.9",
     "massive": "^5.7.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.5",
